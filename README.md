@@ -1,8 +1,10 @@
 # Portfolio
 Responsive home page with html , css , bootstrap5 and fontawesome 5
 
-*colors code :
+*Colors code :
 ![portfolio_colors](https://user-images.githubusercontent.com/108525514/182863388-ab2bd2fc-c135-47bf-b083-5e44a6618f2b.png)
+
+
 
 *Some captures : 
 ![cpt](https://user-images.githubusercontent.com/108525514/182863651-955751bb-5602-4066-8ef1-4043ff38685f.png)
@@ -11,3 +13,11 @@ Responsive home page with html , css , bootstrap5 and fontawesome 5
 ![cpt4](https://user-images.githubusercontent.com/108525514/182863584-52a504fb-a4b2-4ab4-809e-8bc8fe83e8dd.png)
 ![cpt5](https://user-images.githubusercontent.com/108525514/182863593-d41c610c-bf6b-4e45-8078-4795111c78fe.png)
 
+
+
+
+
+*Useful links :
+---flaticon : https://www.flaticon.com/search?word=programmer&order_by=4
+---fontawesome : https://fontawesome.com/
+---canva : https://www.canva.com/
